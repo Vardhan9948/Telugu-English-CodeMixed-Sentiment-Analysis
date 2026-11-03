@@ -16,6 +16,9 @@ is removed during preprocessing.
 - Confusion matrix
 - Interactive prediction
 
+## Project video
+Presentation and live demo video: [Watch the project video on OneDrive](https://1drv.ms/v/c/a6b16236bddfc794/IQDg1-ZxqWNUTokwwVYtN-XmAUFHMvnkD7HiiVxk0JZMHdU?e=R39Fkh)
+
 ## Run in VS Code
 
 ```powershell
